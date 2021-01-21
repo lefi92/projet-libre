@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HTks4LkuypiJ74ALUOiyaXk3LDdbX4u6WKTbhJqeCBO2QsJnn1lF/Ea9aXQQ6sfJZ//m57VVkzoB4HyVYopeIg==",
+  "success": true,
+  "projectFilePath": "D:\\Cours\\NET\\Application-Web-MVC-NETCore\\Application-Web-MVC-NETCore\\Application-Web-MVC-NETCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thoma\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

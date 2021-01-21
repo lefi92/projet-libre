@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Liste de commentaires";
+}
+
+<!-- Ici le contenu de la page est décrit en html -->
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+</div>
+
+<p>Liste de commentaires</p>
+
+@for (var i = 0; i < Model.Count; i++)
+{<div style="border: solid 1px black;"><p>@Model[i].Title</p><p>@Model[i].Text</p></div>}
+

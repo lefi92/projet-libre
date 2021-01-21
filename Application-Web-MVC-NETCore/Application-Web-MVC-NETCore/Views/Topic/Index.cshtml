@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Article numéro 3";
+}
+
+<!-- Ici le contenu de la page est décrit en html -->
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+</div>
+
+<p>@Model.titre</p>
+<p>@Model.text</p>
+
+
+
+<a href='@Url.Action("Comments", "Topic")'>
+    <input type='button' value='Afficher les commentaires' />
+</a>
